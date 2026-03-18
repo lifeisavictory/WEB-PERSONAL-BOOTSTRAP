@@ -18,7 +18,7 @@
 
 html {
     font-size: 15px;
-    background: #e0dbe3;
+    background: white;
 }
 
 
@@ -27,7 +27,7 @@ body {
     margin: 0; /* aby se neprojevilo defaultni odsazeni od dokumentu */
     box-sizing: border-box; /* aby se padding zapocitaval do sirky a vysky */
     color: #414042;
-    background: #e0dbe3;
+    background: white;
     font-family: "Poppins", "Oswald", Verdana, Geneva, Tahoma, sans-serif;
     font-size: 1rem ;
 }
