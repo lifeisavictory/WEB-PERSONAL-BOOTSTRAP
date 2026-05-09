@@ -41,7 +41,7 @@ Osobní portfolio vytvořené s důrazem na **responzivní design** a přístup 
 
 | Autor | Přístup k vývoji |
 |---|---|
-| **Tomáš Salamánek** | ✅ Veškerý kód napsán **výhradně autorem** |
+| **Tomáš Salamánek** | ✅ Většina kódu napsána autorem. Implementace zásad ochrany soukromí byla přidána pomocí **AI Junie**. |
 
 ## 👤 Autor
 
